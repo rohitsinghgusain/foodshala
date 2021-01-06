@@ -1,0 +1,31 @@
+.carousel .carousel-item {
+    height:681px;
+    margin-top: 2px;
+    
+}
+
+.footer {
+    font-size: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0; 
+    height: 50px;
+    width: 100%;
+    background-color: #322F2F;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+ }
+
+.carousel .carousel-item .carousel-caption a:hover{
+    color:whitesmoke;
+    font-weight: 1000;
+}
+
+.carousel .carousel-item .carousel-caption a{
+    color: black;
+    font-weight: 1000;
+}
+
+
+

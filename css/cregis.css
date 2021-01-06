@@ -1,0 +1,8 @@
+body{
+    overflow-x: hidden; //horizontal
+}
+.fa-5x{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
