@@ -74,9 +74,9 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
                             Restaurant
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="rregis.html">Register</a>
+                            <a class="dropdown-item" href="rregis.php">Register</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="rlogin.html">Login</a>
+                            <a class="dropdown-item" href="rlogin.php">Login</a>
                         </div>
                     </li>
                     <li class="nav-item dropdown">
@@ -85,13 +85,13 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
                             Coustomer
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="cregis.html">Register</a>
+                            <a class="dropdown-item" href="cregis.php">Register</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="clogin.html">Login</a>
+                            <a class="dropdown-item" href="clogin.php">Login</a>
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact Us</a>
+                        <a class="nav-link" href="contact.php">Contact Us</a>
                       </li>
                 </ul>
             </div>
